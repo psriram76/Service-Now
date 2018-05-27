@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Needit</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Needit</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">407df166b92013006517ce7df7ee46cc</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-25 14:40:08</sys_created_on>
+        <sys_id>1797b865db961300b2d678eebf961932</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needit</sys_name>
+        <sys_package display_value="My Application" source="x_176674_my_applic">5496b4e1db961300b2d678eebf9619ea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Application">5496b4e1db961300b2d678eebf9619ea</sys_scope>
+        <sys_update_name>sys_wizard_answer_1797b865db961300b2d678eebf961932</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-25 14:40:08</sys_updated_on>
+        <table/>
+        <target_url>x_176674_my_applic_needit.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
